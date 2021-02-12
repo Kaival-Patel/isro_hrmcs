@@ -1,6 +1,14 @@
 # About
 This repo contains my isro internship project insights
 
+### Tools and Technologies used
+<br /> <img src="https://img.shields.io/badge/ui%20with-bootstrap-blue.svg" alt="made with bootstrap">
+<br /> <img src="https://img.shields.io/badge/made%20with-java-red.svg" alt="made with java">
+<br /> <img src="https://img.shields.io/badge/backend%20calling-java_servlets-orange.svg" alt="made with servlet">
+<br /> <img src="https://img.shields.io/badge/ui%20backend%20bridge-jquery-violet.svg" alt="made with jquery">
+<br /> <img src="https://img.shields.io/badge/Backend%20with-mySQL-green.svg" alt="made with jquery">
+<br /> <img src="https://img.shields.io/badge/Tool%20with-PhpMyAdmin-cyan.svg" alt="made with phpmyAdmin">
+
 ### Table of Contents
 1) [Login](#login)
 2) [Dashboard](#dashboard)
