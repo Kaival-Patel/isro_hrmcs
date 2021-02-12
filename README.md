@@ -15,7 +15,7 @@ This repo contains my isro internship project insights
 11) [Search Feature](#search)
 12) [View Searched Candidate](#view-searched-candidate)
 13) [Upload Result](#upload-result)
-14) [Upload Memo](#Upload Memo)
+14) [Upload Memo](#upload-memo)
 15) [Remaining Memo List](#upload-memo-page)
 16) [Download Memo](#download-memo)
 17) [Assign Outward Number](#assign-id)
