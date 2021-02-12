@@ -135,5 +135,5 @@ This repo contains my isro internship project insights
 ## Internship Certificate
 <p> It was an awesome experience in a world's leading space agency
 <br/>
-<br /> <img src="./KAIVAL018.jpp" alt="Certificate"/>
+<br /> <img src="./KAIVAL018.jpg" alt="Certificate"/>
 </p>
